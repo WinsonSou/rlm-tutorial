@@ -1,0 +1,11 @@
+Title: The Human Genome Project
+
+The Human Genome Project (HGP) was an international research effort to determine the DNA sequence of the entire human genome. Launched in 1990, it was one of the largest collaborative biological projects ever undertaken. The project was coordinated by the National Institutes of Health and the U.S. Department of Energy.
+
+The project's primary goals were to identify all approximately 20,000-25,000 genes in human DNA, determine the sequences of the 3 billion chemical base pairs that make up human DNA, and store this information in databases. It also aimed to improve tools for data analysis and address the ethical, legal, and social issues arising from the project.
+
+A draft sequence of the genome was published in 2001, with the complete sequence finished in April 2003 -- two years ahead of schedule. The project cost approximately $2.7 billion and involved scientists from 20 institutions across 6 countries.
+
+The HGP has had profound impacts on medicine, enabling the identification of genes associated with diseases like breast cancer (BRCA1 and BRCA2), cystic fibrosis, and Huntington's disease. It laid the groundwork for personalized medicine, where treatments can be tailored to an individual's genetic profile.
+
+KEY_DETAIL: Despite mapping the full human genome, scientists estimate we only understand the function of about 2% of our DNA -- the remaining 98% was once dismissively called "junk DNA" but is now believed to play important regulatory roles.

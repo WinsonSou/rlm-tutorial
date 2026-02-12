@@ -1,0 +1,11 @@
+Title: The Discovery of Penicillin
+
+Alexander Fleming discovered penicillin in 1928 at St. Mary's Hospital in London. He noticed that a mold called Penicillium notatum had contaminated one of his petri dishes and was killing the surrounding bacteria. This accidental discovery would go on to revolutionize medicine.
+
+However, Fleming lacked the resources to purify penicillin for clinical use. It wasn't until 1940 that Howard Florey and Ernst Boris Chain at Oxford University developed methods to mass-produce penicillin. Their work was driven by the urgent need for antibiotics during World War II.
+
+The first patient treated with penicillin was Albert Alexander, a policeman who had developed a life-threatening infection from a scratch. While the initial treatment showed dramatic improvement, supplies ran out before he could be fully cured, and he ultimately died.
+
+By 1944, penicillin was being mass-produced and was widely available to Allied forces. It saved countless lives during D-Day and subsequent operations. Fleming, Florey, and Chain shared the 1945 Nobel Prize in Physiology or Medicine for their contributions.
+
+KEY_DETAIL: Fleming warned as early as 1945 that overuse of antibiotics could lead to resistant bacteria, a prediction that has proven devastatingly accurate in the modern era of superbugs like MRSA.

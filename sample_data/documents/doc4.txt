@@ -1,0 +1,11 @@
+Title: The Apollo 11 Moon Landing
+
+Apollo 11 was the spaceflight that first landed humans on the Moon. Commander Neil Armstrong and lunar module pilot Buzz Aldrin landed the Apollo Lunar Module Eagle on July 20, 1969. Armstrong became the first person to step onto the lunar surface six hours later, followed by Aldrin. Command module pilot Michael Collins orbited above in the command module Columbia.
+
+The mission launched from Kennedy Space Center on July 16, 1969, carried by a Saturn V rocket. The journey to the Moon took approximately three days. Armstrong and Aldrin spent about two and a quarter hours together outside the spacecraft during their moonwalk, collecting 47.5 pounds of lunar material.
+
+The famous words "That's one small step for man, one giant leap for mankind" were spoken by Armstrong as he stepped onto the Moon's surface. The broadcast was watched by an estimated 600 million people worldwide -- about one-fifth of the world's population at the time.
+
+The crew splashed down in the Pacific Ocean on July 24, 1969, and were quarantined for 21 days as a precaution against potential lunar pathogens. The mission fulfilled President John F. Kennedy's 1961 goal of landing a man on the Moon before the end of the decade.
+
+KEY_DETAIL: The Apollo 11 computer had approximately 74 kilobytes of memory and operated at 0.043 MHz -- less computing power than a modern calculator, yet it successfully navigated humans to the Moon and back.

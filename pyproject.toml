@@ -1,0 +1,17 @@
+[project]
+name = "rlm-tutorial"
+version = "0.1.0"
+description = "Building Recursive Language Models from first principles"
+requires-python = ">=3.12"
+dependencies = [
+    "openai",
+    "rich",
+    "requests",
+]
+
+[project.optional-dependencies]
+rlm = ["rlms"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

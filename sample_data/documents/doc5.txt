@@ -1,0 +1,11 @@
+Title: The Internet's Origin Story
+
+The Internet traces its origins to ARPANET, a project funded by the U.S. Department of Defense's Advanced Research Projects Agency (ARPA). The first message was sent over ARPANET on October 29, 1969, from UCLA to Stanford Research Institute. The intended message was "LOGIN," but the system crashed after transmitting just "LO."
+
+Throughout the 1970s, researchers developed key protocols that would form the backbone of the modern Internet. Vint Cerf and Bob Kahn designed TCP/IP (Transmission Control Protocol/Internet Protocol) in 1974, which became the standard for data transmission across networks. This protocol suite allowed different computer networks to interconnect, creating a true "network of networks."
+
+The World Wide Web was invented by Tim Berners-Lee at CERN in 1989. He proposed a system of interlinked hypertext documents accessible via the Internet. The first website, info.cern.ch, went live on August 6, 1991, and described the World Wide Web project itself.
+
+The commercialization of the Internet in the mid-1990s led to explosive growth. The Mosaic browser, released in 1993, made the Web accessible to non-technical users. Companies like Amazon (1994), eBay (1995), and Google (1998) were founded during this period, transforming commerce and information access.
+
+KEY_DETAIL: Despite the Internet's military origins, Berners-Lee made his World Wide Web invention freely available with no patent and no royalties due, a decision that many credit as the single most important factor in the Web's rapid global adoption.
